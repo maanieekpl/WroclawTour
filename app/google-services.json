@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "334111625624",
+    "firebase_url": "https://wroclawtour-4391c.firebaseio.com",
+    "project_id": "wroclawtour-4391c",
+    "storage_bucket": "wroclawtour-4391c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334111625624:android:a8554823fddc5b6a",
+        "android_client_info": {
+          "package_name": "com.example.adrian.wroclawtour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334111625624-a67gqor6h5mimdro4p5q3ffv6c3pc1rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adrian.wroclawtour",
+            "certificate_hash": "7934a632ce504f25d167ae21560fd8b0b5fe3cdd"
+          }
+        },
+        {
+          "client_id": "334111625624-25f1s4m0i321s8hfe7t7gub420aigv1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhdC2Z5L0DdH65owneB8znob1dbjewPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334111625624-25f1s4m0i321s8hfe7t7gub420aigv1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
